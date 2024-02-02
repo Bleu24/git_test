@@ -1,0 +1,2 @@
+Hello this is first GitHub and Git repo practice for my The Odin Project
+hehee
